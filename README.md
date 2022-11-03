@@ -151,14 +151,11 @@ If you have a suggestion that would make this project better, please fork the re
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE TODO
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/grab/go-showdeps/blob/main/LICENSE) for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
--->
 
 <!-- CONTACT -->
 ## Contact
@@ -178,4 +175,4 @@ Project Link: [https://github.com/grab/go-showdeps](https://github.com/grab/go-s
 [issues-shield]: https://img.shields.io/github/issues/grab/go-showdeps.svg?style=for-the-badge
 [issues-url]: https://github.com/grab/go-showdeps/issues
 [license-shield]: https://img.shields.io/github/license/grab/go-showdeps.svg?style=for-the-badge
-[license-url]: https://github.com/grab/go-showdeps/blob/master/LICENSE.txt
+[license-url]: https://github.com/grab/go-showdeps/blob/master/LICENSE
